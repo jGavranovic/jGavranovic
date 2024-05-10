@@ -1,5 +1,6 @@
 # About me
 Jovan Gavranovic, Software Engineering Co-op Student, Concordia
+Bilingue 🥖
 
 - I am currently working on [RecipeSwap](http:/recipeswap.fly.dev/discover)🍽️
 - I am also interested in starting a machine learning project 🤖
