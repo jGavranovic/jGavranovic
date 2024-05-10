@@ -3,7 +3,7 @@ Jovan Gavranovic, Software Engineering Co-op Student, Concordia
 
 - I am currently working on [RecipeSwap](http:/recipeswap.fly.dev/discover)🍽️
 - I am also interested in starting a machine learning project 🤖
-- Looking forward to me next hackathon💻
+- Looking forward to my next hackathon💻 , our [last attempt](https://github.com/Babushka1/ConUHacksVIIISapsters) was not fruitful 😔
 
 <!--
 **jGavranovic/jGavranovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
