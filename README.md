@@ -1,7 +1,7 @@
 # About me
 Jovan Gavranovic, Software Engineering Co-op Student,Concordia
 
-I am currently working on [[https://www.recipeswap.fly.dev|RecipeSwap]]
+I am currently working on [RecipeSwap](https://www.recipeswap.fly.dev)
 
 <!--
 **jGavranovic/jGavranovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
