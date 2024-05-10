@@ -2,7 +2,7 @@
 Jovan Gavranovic, Software Engineering Co-op Student, Concordia 
 
 - I am currently working on [RecipeSwap](http:/recipeswap.fly.dev/discover)🍽️
-- I am also interested in starting a machine learning project 🤖
+- I am interested in starting a machine learning project 🤖
 - Looking forward to my next hackathon💻 , our [last attempt](https://github.com/Babushka1/ConUHacksVIIISapsters) was not fruitful 😔
 - Bilingue 🥖
 <!--
