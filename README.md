@@ -1,5 +1,5 @@
 # About me
-Jovan Gavranovic, Software Engineering Co-op Student, Concordia 
+Jovan Gavranovic (pronouned YO-vahn), Software Engineering Co-op Student, Concordia 
 
 - I am currently working on [RecipeSwap](http:/recipeswap.fly.dev/discover)🍽️
 - [LeetCode](https://leetcode.com/u/jGavranovic/) 🔧
