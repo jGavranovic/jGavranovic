@@ -1,11 +1,5 @@
 # About me
-Jovan Gavranovic (pronouned YO-vahn), Software Engineering Co-op Student, Concordia 
-
-- I am currently working on [RecipeSwap](http:/recipeswap.fly.dev/discover)🍽️
-- [LeetCode](https://leetcode.com/u/jGavranovic/) 🔧
-- Looking forward to my next hackathon💻 , our [last attempt](https://github.com/Babushka1/ConUHacksVIIISapsters) was not fruitful 😔
-- Bilingue 🥖
-- I am interested in starting a machine learning project 🤖
+Jovan Gavranovic (pronouned YO-van), Software Engineering Student at Concordia 
 <!--
 **jGavranovic/jGavranovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
